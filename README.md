@@ -149,7 +149,4 @@ python main.py
 
 ## 贡献与支持
 
-如果您有任何问题、建议或想为项目贡献代码，请随时通过 [GitHub Issues](YOUR_GITHUB_REPO_URL/issues) 提交。
-
----
-请将 `YOUR_GITHUB_REPO_URL` 替换为你的实际 GitHub 仓库地址（如果你有的话）。
+如果您有任何问题、建议或想为项目贡献代码，请随时通过 [GitHub Issues](https://github.com/vincent123421/Arrangementkit4SRTP.git/issues) 提交。
