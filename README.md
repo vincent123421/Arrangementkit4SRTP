@@ -149,4 +149,4 @@ python main.py
 
 ## 贡献与支持
 
-如果您有任何问题、建议或想为项目贡献代码，请随时通过 [GitHub Issues](https://github.com/vincent123421/Arrangementkit4SRTP.git/issues) 提交。
+如果您有任何问题、建议或想为项目贡献代码，请随时通过 [GitHub Issues](https://github.com/vincent123421/Arrangementkit4SRTP/issues) 提交。
