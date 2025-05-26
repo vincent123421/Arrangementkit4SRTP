@@ -72,7 +72,7 @@ class ReportGenerator:
         try:
             subprocess.run(
                 ['pandoc', self.output_md_filename, '-o', self.output_word_filename,
-                 '--standalone', f'--resource-path={self.image_manager.temp_dir}'], 
+                 '--standalone', f'--resource-path={self.image_manager.temp_dir}'],
                 check=True,
                 encoding='utf-8'
             )
